@@ -4,7 +4,5 @@
     "titleBar.activeBackground": "#849",
     "activityBar.background": "#849"
   },
-  "[typescript]": {
-    "editor.formatOnSave": true
-  }
+  "editor.formatOnSave": true
 }
