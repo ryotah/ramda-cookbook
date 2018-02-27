@@ -1,0 +1,10 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#849",
+    "activityBar.background": "#849"
+  },
+  "[typescript]": {
+    "editor.formatOnSave": true
+  }
+}
