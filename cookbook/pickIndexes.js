@@ -10,6 +10,11 @@ const pickIndexes = R.compose(R.values, R.pickAll);
 // console.log(pickIndexes([0, 2], ['a', 'b', 'c']));
 // => ['a', 'c']
 
+module.exports = pickIndexes;
+
+// pickAll
 // http://ramdajs.com/docs/#pickAll
 
-module.exports = pickIndexes;
+// rubyの場合
+// arr = ['a', 'b', 'c']
+// arr.values_at(0, 2)
