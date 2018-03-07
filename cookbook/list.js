@@ -12,7 +12,7 @@ const list = R.unapply(R.identity);
 
 module.exports = list;
 
-// upapply
+// unapply
 // ([*…] → a) → (*… → a)
 // http://ramdajs.com/docs/#unapply
 // R.unapply(JSON.stringify)(1, 2, 3);
