@@ -18,3 +18,7 @@ module.exports = pickIndexes;
 // rubyの場合
 // arr = ['a', 'b', 'c']
 // arr.values_at(0, 2)
+
+// R.propsでも可能（と思うぞ）
+// R.props([0, 2], ['a', 'b', 'c']);
+// => ['a', 'c']
