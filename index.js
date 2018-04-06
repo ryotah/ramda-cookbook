@@ -2,5 +2,7 @@
 // const list = require('./cookbook/list');
 // const cssQuery = require('./cookbook/cssQuery-setStyle').cssQuery;
 // const setStyle = require('./cookbook/cssQuery-setStyle').setStyle;
-// const list = require('./cookbook/disco');
-require('./cookbook/get-n-function-calls');
+// const disco = require('./cookbook/disco');
+// require('./cookbook/get-n-function-calls');
+// const dafaults = require('./cookbook/dafaults');
+const methodNames = require('./cookbook/methodNames');
