@@ -5,4 +5,5 @@
 // const disco = require('./cookbook/disco');
 // require('./cookbook/get-n-function-calls');
 // const dafaults = require('./cookbook/dafaults');
-const methodNames = require('./cookbook/methodNames');
+// const methodNames = require('./cookbook/methodNames');
+const mapKeys = require('./cookbook/mapKeys');
