@@ -7,5 +7,7 @@
 
 # Function
 
-* assoc
-* adjust
+* assoc [Object]
+* adjust [List]
+* intersection [Relation]
+* complement [Logic]

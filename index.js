@@ -6,6 +6,9 @@
 // require('./cookbook/get-n-function-calls');
 // const dafaults = require('./cookbook/dafaults');
 // const methodNames = require('./cookbook/methodNames');
-// // const mapKeys = require('./cookbook/mapKeys');
-// // const renameKeys = require('./cookbook/renameKeys');
-const renameBy = require('./cookbook/renameBy');
+// const objFromKeys = require('./cookbook/objFromKeys');
+// const objFromListWith;
+// const mapKeys = require('./cookbook/mapKeys');
+// const renameKeys = require('./cookbook/renameKeys');
+// const renameBy = require('./cookbook/renameBy');
+const overlap = require('./cookbook/overlap');
