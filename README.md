@@ -11,3 +11,6 @@
 * adjust [List]
 * intersection [Relation]
 * complement [Logic]
+* when [Logic]
+* ifElse [Logic]
+* cond [Logic]

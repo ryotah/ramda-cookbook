@@ -11,4 +11,5 @@
 // const mapKeys = require('./cookbook/mapKeys');
 // const renameKeys = require('./cookbook/renameKeys');
 // const renameBy = require('./cookbook/renameBy');
-const overlap = require('./cookbook/overlap');
+// const overlap = require('./cookbook/overlap');
+// const objSize = require('./cookbook/objSize');
