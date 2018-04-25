@@ -14,3 +14,5 @@
 * when [Logic]
 * ifElse [Logic]
 * cond [Logic]
+* converge [Function]
+* nthArg [Function]
